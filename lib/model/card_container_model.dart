@@ -15,8 +15,8 @@ class CartContainer {
 }
 
 List<CartContainer> cartContainer = [
-  CartContainer(idname: "Tanzeel", idnum: 23456789, colour: kblue),
-  CartContainer(idname: "Aslam", idnum: 23891234, colour: kpink),
-  CartContainer(idname: "Jameel", idnum: 23944124, colour: kbarblue),
-  CartContainer(idname: "Aqib", idnum: 98012345, colour: Colors.amber),
+  CartContainer(idname: "Chris", idnum: 23456789, colour: kblue),
+  CartContainer(idname: "Jack", idnum: 23891234, colour: kpink),
+  CartContainer(idname: "John", idnum: 23944124, colour: kbarblue),
+  CartContainer(idname: "Micheal", idnum: 98012345, colour: Colors.amber),
 ];

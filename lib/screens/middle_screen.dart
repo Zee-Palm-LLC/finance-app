@@ -13,7 +13,7 @@ class MiddleScreen extends StatelessWidget {
           backgroundColor: kBlackBackground,
           body: Center(
             child: Text(
-              "Tanzeel",
+              "Screen",
               style: TextStyle(
                 fontSize: 20.sp,
                 color: Colors.white,
