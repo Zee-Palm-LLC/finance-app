@@ -1,16 +1,10 @@
-# financial_goal
+# Zee Palm UI Code
 
-A new Flutter project.
+Finance App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Finance App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/finance-app/assets/128903428/1c3c786f-0923-4bc7-80f8-42dbccb1753e" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/finance-app/assets/128903428/72df3429-abef-493e-87eb-57116cfeab67" width="200" height="400" />
